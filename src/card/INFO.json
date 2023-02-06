@@ -1,0 +1,30 @@
+[
+  {
+    "type": "card",
+    "theme": "secondary",
+    "color": "#e3b4b8",
+    "size": "lg",
+    "modules": [
+      {
+        "type": "header",
+        "text": {
+          "type": "plain-text",
+          "emoji": false,
+          "content": "提醒摸鱼小助手"
+        }
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "context",
+        "elements": [
+          {
+            "type": "kmarkdown",
+            "content": "*var0.0.1*"
+          }
+        ]
+      }
+    ]
+  }
+]
